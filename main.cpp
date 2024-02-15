@@ -23,4 +23,4 @@ int main(){
     return 0;
 }
 
-// добавить в переменную среды mingw/bin/make
+// добавить в переменную среды mingw/bin/make при сборке: -D"CMAKE_MAKE_PROGRAM:PATH=C:/MinGW/bin/make.exe"
